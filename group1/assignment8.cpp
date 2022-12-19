@@ -1,3 +1,10 @@
+/*
+Title   :-   Write a C++ program to find the minimum spanning tree of a given undirected graph.
+Author  :-   Sahil Dhargave
+
+*/
+
+
 #include <iostream>
 #include <bits/stdc++.h>
 using namespace std;
