@@ -1,3 +1,8 @@
+/*
+Title :   Write a C++ program for the implementation of BFS and DFS for a given graph
+Author  :- Sahil Dhargave
+*/
+
 #include <iostream>
 using namespace std;
 class Stack
