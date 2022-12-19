@@ -1,3 +1,11 @@
+/*
+Title  :  Write a C++ program to construct a binary search tree and perform insertion, deletion, searching of a node and
+	its traversal.
+
+Author  : Sahil Dhargave
+
+*/
+
 #include <iostream>
 
 using namespace std;
