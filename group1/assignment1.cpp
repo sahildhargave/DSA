@@ -1,3 +1,12 @@
+
+/*
+Title :-  Consider an employee database of N employees. Make use of a hash table implementation toquickly look up the
+          employee‟s id number.
+
+Author  :- Sahil Dhargave
+
+*/
+
 #include <iostream>
 #include <string.h>
 using namespace std;
