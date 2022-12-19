@@ -1,3 +1,10 @@
+/*
+Title   :-   Write a C++ program to perform infix to postfix conversion using stack.
+
+Author  :- Sahil Dhargave
+
+*/
+
 #include <iostream>
 #include <stack>
 using namespace std;
