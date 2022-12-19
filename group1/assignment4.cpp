@@ -1,5 +1,16 @@
 //impementation of stack
 
+/*
+Title  :-  Write a C++ program to implement the following data structures and its operations using linked list:
+i) Stack ii) Queue.
+
+Author  :-  Sahil Dhargave
+
+*/
+
+
+
+
 #include <iostream>
 using namespace std;
 struct Node
